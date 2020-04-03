@@ -2,7 +2,7 @@
 ![Perl](http://www.w3big.com/perl/0020_999_1373967199_perl_256.png)
 
 ### Introdução
-Perl é uma linguagem de programação de alto nível multiplataforma. Chamada por muitos de "Canivete Suíço", a linguagem é bastante flexível, possuindo um leque de aplicações bem amplo, tais como aplicações CGI para a web, administração de sistemas, manipulação de dados criptográficos, programação gráfica e outras várias aplicações que necessitam de uma manipulação de Strings mais fácil.
+Perl é uma linguagem de programação de alto nível multiplataforma. Chamada por muitos de "Canivete Suíço", a linguagem é bastante flexível, possuindo um leque de aplicações bem amplo, tais como aplicações CGI para a web, administração de sistemas, manipulação de dados criptográficos, programação gráfica e outras várias aplicações que exigem facilidade em manipulação de Strings
 ### Classificação
 O TypeScript é uma linguagem multi-paradigmas. O paradigma usado com mais frequência é a orientação a objetos.
 É uma linguagem de tipagem estática. Seu principal uso é para o desenvolvimento Web.
