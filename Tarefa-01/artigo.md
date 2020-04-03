@@ -1,7 +1,7 @@
 # Perl
 ![TypeScript](http://www.w3big.com/perl/0020_999_1373967199_perl_256.png)
 
-### História
+### Introdução
 É uma linguagem que complementa o JavaScript, tendo funcionalidades e recursos que não existem em JavaScript. A principal característica do TypeScript é a tipagem estática.
 Ela foi desenvolvida pela Microsoft no fim de 2012, foi influenciada pelas linguagens: JavaScript, Java, C#.
 ### Classificação
@@ -17,11 +17,9 @@ Essa funcionalidade também aplica-se às funções,por exemplo, uma função de
 usando essa funcionalidade é possível ordena tanto strings e inteiros sem precisar criar uma função para cada tipo. 
 O TypeScript também possui o recurso da inferência de tipos, nem todas as linguagens tipadas estaticamente possuem esse recurso, ele também possui tipos genéricos, o tipo any e unknow, que são tipos que recebem qualquer um dos tipos primitivos da linguagem.
 ### Exemplos 
-#### Código Hello World em JavaScript e TypeScript
-##### TypeScript
-```ts
-    // Hello world in TypeScript
-    alert('Hello world!');
+#### Código Hello World em Perl
+```pl
+    print("Hello World!");
 ```
 ##### JavaScript
 ```js
