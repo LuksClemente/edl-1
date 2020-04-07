@@ -5,18 +5,38 @@
 Perl é uma linguagem de programação de alto nível multiplataforma. Chamada por muitos de "Canivete Suíço", a linguagem é bastante flexível, possuindo um leque de aplicações bem amplo, tais como aplicações CGI para a web, administração de sistemas, manipulação de dados criptográficos, programação gráfica e outras várias aplicações que exigem facilidade em manipulação de Strings
 ### História
 Perl foi criado por Lerry Walls em 1987, fortemente baseada em AWK, BASIC, C, C++, Lisp, sed e no shell dos sistemas UNIX, Originalmente a única documentação disponivel sobre perl era uma man page ("man perl" nos terminais unix) e mais tarde em 1991 o livro Programming Perl, conhecido por muitos como Camel Book por conta de sua capa, tornou-se a referencia universal para Perl.
-### Classificação
-O TypeScript é uma linguagem multi-paradigmas. O paradigma usado com mais frequência é a orientação a objetos.
-É uma linguagem de tipagem estática. Seu principal uso é para o desenvolvimento Web.
-### Avaliação
-É uma linguagem de fácil aprendizagem para quem tem experiência com as linguagens que ela foi influenciada, C#,Java e JavaScript, pois não traz muitas inovações na sintaxe e semântica do código. Por ser de tipagem estática ela é costuma ser mais legível que JavaScript, mas em relação a outras linguagens como Python ela não é tão legível porque seus comandos têm nomes grandes e menos intuitivos como no Python.
-A manutenção do código é mais simples que no Javascript, pois alguns erros que ocorrem aparecem na compilação, enquanto que em JavaScript erros parecidos ocorreriam na execução.
-E como a maioria das linguagens atuais ela é portável podendo ser usada em qualquer sistema operacional e executada em qualquer navegador.
-Uma das funcionalidades do typescript são os tipos condicionais.
-Dessa forma, dependendo do valor atribuído a uma variável ela vai ter tipos distintos e isso pode ser feito de um modo simples.
-Essa funcionalidade também aplica-se às funções,por exemplo, uma função de ordenação, 
-usando essa funcionalidade é possível ordena tanto strings e inteiros sem precisar criar uma função para cada tipo. 
-O TypeScript também possui o recurso da inferência de tipos, nem todas as linguagens tipadas estaticamente possuem esse recurso, ele também possui tipos genéricos, o tipo any e unknow, que são tipos que recebem qualquer um dos tipos primitivos da linguagem.
+### Características
+Perl pode ser definida como uma linguagem multiparadigma, isto é, uma linguagem que suporta vários paradigmas de programação. Os paradigmas suportados são:  
+  
+* Programação Imperativa: Sua maneira de programar voltada a descrever como o software deve realizar cada tarefa, linha por linha, através de comandos, com suas varíaveis modelando as células de memória.
+
+* Programação Estruturada: Assim como C e outras linguagens estruturadas, Perl permite que o usuário possa definir as suas próprias funções e subrotinas. Além disso possui estruturas de controle muito semelhantes a C.
+
+* Programação Funcional: Um dos recursos da programação funcional existentes em Perl são a maneira como as funções podem ser passadas como parâmetro e valores para outras e funções e podendo ter o resultado armazenado em uma constante.
+
+* Programação Orientada a Objetos: Perl também possui um modelo de orientação a objetos. Em Perl os objetos são estruturas de dados que são associadas a uma classe, os construtores são apenas subs que retornam uma variável e os métodos são apenas subs que recebem a referência de um objeto já instanciado.  
+  
+Além disso, como Perl possui tipagem dinâmica, não é necessário especificar o tipo de uma variável, o intérprete Perl selecionará automaticamente o tipo de correspondência, dependendo do contexto. Em Perl temos 3 tipos de dados básicos: Escalares, Arrays e Hashs. Por influência das linguagens de Shell Script as variáveis escalares são precedidas por um $(cifrão), seguindo a lógica, os arrays são precedidos por @(arroba/at) e as hashs são precedidas por %(porcentagem).  
+  
+Assim como toda linguagem, Perl também possui vantagens e desvantagens:  
+  
+#### Vantagens:
+
+  * Ótimo para manipulação de textos
+  * Desenvolvida como Software Livre
+  * Multiplataforma
+  * Multiparadigma
+  * Integração com banco de dados
+  * Módulos HTML
+  * Módulo CGI
+  * Manipulação de dados criptografados  
+  
+  #### Desvantagens:  
+    
+  * Scripts lentos por conta do interpretador
+  * Sem acesso a funções de baixo nível, ou seja, menos liberdade
+  * muitos códigos são difíceis de ler e ruins de escrever, dificultando a manutenção
+  * Processos que algumas vezes ocupam muito espaço na memória
 ### Exemplos 
 #### Hello World em Perl
 ```pl
