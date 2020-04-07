@@ -63,6 +63,13 @@ for i in range(10):
     print(n)
     n, n2 = n2, n+n2
 ```
+##### Podemos ver diferenças óbvias entre os dois códigos:
+1) Perl, por ser baseado em Shell Script possui o $ na declaração de variáveis e necessita de ';' no final da linha, já o python, não.
+
+2) No python, ocorre a triangularização automática de variáveis, no perl, é necessária a criação de uma variável temporária "$t".
+
+3) Entre outras diferenças menores na sintaxe do programa. 
+
 #### Referências
 
 * https://pt.wikipedia.org/wiki/Perl
