@@ -159,8 +159,10 @@ A função *somaouconc*  soma ou concatena duas variáveis, por isso, essa funç
 
 Nesse algoritmo de ordenação aproveito de um dos recursos do Typescript, o de **tipos condicionais**, e com isso ordeno tanto strings e inteiros na mesma função de um jeito simples.  
 #### Referências
-[Referência para os tipos condicionais](https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)  
-[Manual do TypeScript - Tipos Básicos](https://www.typescriptlang.org/docs/handbook/basic-types.html)  
-[Manual do TypeScript - Tipos Avançados](https://www.typescriptlang.org/docs/handbook/advanced-types.html)  
-[Objetos - Referências de valores](https://blog.da2k.com.br/2017/01/25/objetos-referencias-de-valores-em-javascript/)  
+
+* https://pt.wikipedia.org/wiki/Perl
+* http://www.smeduquedecaxias.rj.gov.br/nead/Biblioteca/Forma%C3%A7%C3%A3o%20Continuada/Tecnologia/cursos/programacao/perl/cgi.pdf
+* http://www.w3big.com/perl/perl-intro.html
+* https://blol.org/1700-programacao-funcional-com-perl-parte-i-revista-e-aumentada
+* https://www.vivaolinux.com.br/script/Orientacao-a-Objetos-Criando-e-usando-uma-classe-em-Perl/
 
